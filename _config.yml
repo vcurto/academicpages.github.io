@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Vilsa Eliana Curto / Academic Website"
+title                    : "Vilsa Eliana Curto / Assistant Professor of Health Policy"
 title_separator          : "-"
 name                     : &name "Vilsa Eliana Curto"
 description              : &description "Assistant Professor of Health Policy"
